@@ -1,1 +1,1 @@
-# OLAF Auth (Android)
+# OLAF Lib (Android)
