@@ -1,1 +1,1 @@
-# OLAF Library for Android
+# OLAF SDK for Android
